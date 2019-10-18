@@ -22,3 +22,7 @@ ie creating objects from the Monom class and adding them to the polynomial using
 
 *In order to show visual any polynom we used Library "Knowm/xChart" for Example:
 you need create Polynom and call the function "initGraph" with the exact range to show the graph and the Extreme points of the Polynom.
+
+**for example:** chartExample.initGraph(start_range,end_range,Poly_function);
+
+<img src="https://imagizer.imageshack.com/img921/6472/z5gEzn.jpg" width="700" height="400" >
